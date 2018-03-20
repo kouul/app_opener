@@ -1,0 +1,28 @@
+html, body {
+  width: 100px;
+}
+
+.button {
+  background-color: black;
+  padding: 3px;
+  text-align: center;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #aabbcc;
+}
+
+.beast {
+  background-color: #E5F2F2;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+i {
+  font-size: 2px;
+}

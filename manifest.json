@@ -1,0 +1,17 @@
+{
+  "name": "Social Apps Opener",
+
+  "version": "1",
+
+  "permissions": ["tabs"],
+  
+  "manifest_version": 2,
+
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": "icons/iconApps.ico",
+    "default_title": "Social Apps",
+    "default_popup": "popup/apps.html"
+  }
+
+}
